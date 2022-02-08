@@ -20,3 +20,4 @@ One page of Cheatsheets
 
 
 
+Break down into subproblems and techonlogies
