@@ -1,0 +1,4 @@
+base referer
+default http://www.research.att.com/base.html
+poly http://www.research.att.com/command.html 128,29 125,22 117,15 103,10 86,7 67,5 48,7 31,10 17,15 8,22 5,29 8,37 17,43 31,49 48,52 67,53 86,52 103,49 117,43 125,37
+poly colors.html 70,54 70,88 64,88 64,54
