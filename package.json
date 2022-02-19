@@ -1,0 +1,22 @@
+{
+  "name": "oblongata",
+  "version": "1.0.0",
+  "description": "dot -Tpng hello.dot -o out.png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T1Fleming/oblongata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T1Fleming/oblongata/issues"
+  },
+  "homepage": "https://github.com/T1Fleming/oblongata#readme",
+  "dependencies": {
+    "marked": "^4.0.12"
+  }
+}
